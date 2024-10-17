@@ -637,7 +637,8 @@
 .quadro7-cont5{
   position: absolute;
   margin-top: 150px;
-  background: rgba(153, 90, 61, 1);
+  /*background: rgba(153, 90, 61, 1);*/
+  background: #b9b3b3;
   box-shadow: 0px 8px 1.6px 0px rgba(0, 0, 0, 0.3);
   width: 460px;
   height: 230px;
